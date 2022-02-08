@@ -4,7 +4,7 @@
 
 - Name: Alex Witherspoon (Al-ex With-Er-Spoon)
 - Pronouns: He, Him, They, Theirs
-- Location: [Sandy, Oregon USA](https://traveloregon.com/places-to-go/cities/sandy/)
+- Location: [Sandy, Oregon USA](https://traveloregon.com/places-to-go/cities/sandy/) (pictured above)
 - Timezone: [Pacific Time - UTC -8](https://time.is/en/Sandy,_Oregon)
   - Available: 6am-10pm
   - Prefer: 8am-2pm
