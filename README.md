@@ -26,7 +26,7 @@
 - ethical computing, accessibility, security, and data privacy
 - investing in the future 
 
-### Working With Me
+### Working With Me // README.MD // User Manual
 
 I've worked for, with, beside, above, below a lot of amazing people at start ups, fortune 100, airplane flight decks and more. That diversity of experience has shaped me into who I am today. Below are some biases that influence how I work, and some tips and insights that might help you work with me. 
 
