@@ -24,7 +24,7 @@
 
 - furthering humanity with technology
 - ethical computing, accessibility, security, and data privacy
-- investing in the future - money / advising / connecting / board member
+- investing in the future 
 
 ### Working With Me
 
