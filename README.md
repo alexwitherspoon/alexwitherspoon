@@ -1,4 +1,4 @@
-### Nice to meet you! :sparkles:
+# Nice to meet you! :sparkles:
 
 - Name: Alex Witherspoon (Al-ex With-Er-Spoon)
 - Pronouns: He, Him, They, Theirs
@@ -10,7 +10,7 @@
 - Schedule on my Calendar: https://meetup.alexwitherspoon.com/
 - Website: [alexwitherspoon.com](https://alexwitherspoon.com/about/)
 
-#### Hobbies
+### Hobbies
 
 - maker & builder
 - hacker
@@ -20,17 +20,18 @@
 - proffesional career & business coach
 - automobile racing
 
-#### Focuses
+### Focuses
 
 - furthering humanity with technology
 - ethical computing, accessibility, security, and data privacy
 - investing in the future - money / advising / connecting / board member
 
-#### Working With Me
+### Working With Me
 
 I've worked for, with, beside, above, below a lot of amazing people at start ups, fortune 100, airplane flight decks and more. That diversity of experience has shaped me into who I am today. Below are some biases that influence how I work, and some tips and insights that might help you work with me. 
 
 Resume:[Resume PDF Link](https://resume.alexwitherspoon.com/)
+
 DISC:	Di
 
 <a href="https://alexwitherspoon.com/about/Disc-atw-2018.png" target="_blank"><img src="https://alexwitherspoon.com/about/Disc-atw-2018-graph.png" alt="Disc Chart Showing Di" style="width: 150px;"/></a>
@@ -45,7 +46,7 @@ StrengthsFinder:
 
 Myers Briggs:	[ENTJ](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 
-##### Values & Practices
+#### Values & Practices
 
 - invest in people, not outcomes
 - communicate clearly with the reader in mind
@@ -61,7 +62,7 @@ Myers Briggs:	[ENTJ](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Ind
 - lowercase agile
 - low ego, we are all humans on planet earth
 
-##### Communication
+#### Communication
 
 - I am easy going, and really like talking and getting to know people, no matter who you are.
 - It's ok to speak naturally with me, and directly, I'll do the same. Everyone is different, and I embrace that, no need to impress, no need to explain. Yes the kiddo is welcome to the zoom!
