@@ -66,7 +66,7 @@ Myers Briggs:	[ENTJ](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Ind
 #### Communication
 
 - I am easy going, and really like talking and getting to know people, no matter who you are.
-- It's ok to speak naturally with me, and directly, I'll do the same. Everyone is different, and I embrace that, no need to impress, no need to explain. Yes the kiddo is welcome to the zoom!
+- It's ok to speak naturally and directly with me. I'll do the same. Everyone is different, and I embrace that, no need to impress, no need to explain I won't judge. Yes the kiddo is welcome to the zoom!
 - Asynchronous communication is preferred, but I'll meet you in whatever manner is best for you and what you want to talk about.
 - Give me 24 hours notice if you can, or let me know it's an *emergency* and I'll respond as soon as possible. Sometimes I get busy, but I do read every message.
 - Always make a meeting invite editable by both of us, and feel free to change it to work better for your schedule. Stuff happens, no stigma at all for moving a meeting.
