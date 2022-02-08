@@ -1,5 +1,3 @@
-![alex](./alex.jpeg "Profile Picture of Alex Witherspoon")
-
 ### Nice to meet you! :sparkles:
 
 - Name: Alex Witherspoon (Al-ex With-Er-Spoon)
