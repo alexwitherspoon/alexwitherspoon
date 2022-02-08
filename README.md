@@ -49,7 +49,7 @@ Myers Briggs:	[ENTJ](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Ind
 #### Values & Practices
 
 - invest in people, not outcomes
-- honesty, and directness
+- honesty, directness, transparancy
 - communicate clearly with the reader in mind
 - ship to learn, learn often
 - enable the agency and autonomy of others
