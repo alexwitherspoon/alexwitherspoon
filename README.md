@@ -32,6 +32,15 @@
 
 I've worked for, with, beside, above, below a lot of amazing people at start ups, fortune 100, airplane flight decks and more. That diversity of experience has shaped me into who I am today. Below are some biases that influence how I work, and some tips and insights that might help you work with me. 
 
+#### Communication
+
+- I am easy going, and really like talking and getting to know people, no matter who you are.
+- It's ok to speak naturally and directly with me. I'll do the same. Everyone is different, and I embrace that, no need to impress, no need to explain I won't judge. Yes the kiddo is welcome to the zoom!
+- It's ok to be direct to the point with me, even if it's a tough topic or conversation. Help me understand the outcome you want to acheive, and we can work backwards from that to try to make it happen.
+- Asynchronous communication is preferred, but I'll meet you in whatever manner is best for you and what you want to talk about.
+- Give me 24 hours notice if you can, or let me know it's an *emergency* and I'll respond as soon as possible. Sometimes I get busy, but I do read every message.
+- Always make a meeting invite editable by both of us, and feel free to change it to work better for your schedule. Stuff happens, no stigma at all for moving a meeting.
+
 Resume:[Resume PDF Link](https://resume.alexwitherspoon.com/)
 
 DISC:	Di
@@ -64,11 +73,3 @@ Myers Briggs:	[ENTJ](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Ind
 
 - lowercase agile
 - low ego, we are all humans on planet earth
-
-#### Communication
-
-- I am easy going, and really like talking and getting to know people, no matter who you are.
-- It's ok to speak naturally and directly with me. I'll do the same. Everyone is different, and I embrace that, no need to impress, no need to explain I won't judge. Yes the kiddo is welcome to the zoom!
-- Asynchronous communication is preferred, but I'll meet you in whatever manner is best for you and what you want to talk about.
-- Give me 24 hours notice if you can, or let me know it's an *emergency* and I'll respond as soon as possible. Sometimes I get busy, but I do read every message.
-- Always make a meeting invite editable by both of us, and feel free to change it to work better for your schedule. Stuff happens, no stigma at all for moving a meeting.
