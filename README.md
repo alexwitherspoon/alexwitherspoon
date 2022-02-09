@@ -30,7 +30,7 @@
 
 ### Working With Me // README.MD // User Manual
 
-I've worked for, with, beside, above, below a lot of amazing people at start ups, fortune 100, airplane flight decks and more. That diversity of experience has shaped me into who I am today. Below are some biases that influence how I work, and some tips and insights that might help you work with me. 
+I've worked for, with, beside, above, below a lot of amazing people at start ups, fortune 100, airplane flight decks and more. That diversity of experience has shaped me into who I am today. Below are some biases that influence how I work, and some tips and insights that might help you work with me. If in doubt though, just ask, I am an open book and happy to share how I like to work, and happy to explore together how we can acheive outcomes together. 
 
 #### Communication
 
