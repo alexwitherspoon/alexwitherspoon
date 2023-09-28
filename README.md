@@ -32,6 +32,9 @@
 
 I've worked for, with, beside, above, below a lot of amazing people at start ups, fortune 100, airplane flight decks and more. That diversity of experience has shaped me into who I am today. Below are some biases that influence how I work, and some tips and insights that might help you work with me. If in doubt though, just ask, I am an open book and happy to share how I like to work, and happy to explore together how we can acheive outcomes together. 
 
+<td>Resume: </td>
+    <td><a href="https://resume.alexwitherspoon.com" target="_blank">HTML</a>     <a href="https://resume.alexwitherspoon.com/alexwitherspoon-resume.pdf" target="_blank">PDF</a></td>
+
 #### Communication
 
 - I am easy going, and really like talking and getting to know people, no matter who you are.
@@ -40,22 +43,6 @@ I've worked for, with, beside, above, below a lot of amazing people at start ups
 - Asynchronous communication is preferred, but I'll meet you in whatever manner is best for you and what you want to talk about.
 - Give me 24 hours notice if you can, or let me know it's an *emergency* and I'll respond as soon as possible. Sometimes I get busy, but I do read every message.
 - Always make a meeting invite editable by both of us, and feel free to change it to work better for your schedule. Stuff happens, no stigma at all for moving a meeting.
-
-Resume:[Resume PDF Link](https://resume.alexwitherspoon.com/)
-
-DISC:	Di
-
-<a href="https://alexwitherspoon.com/about/Disc-atw-2018.png" target="_blank"><img src="https://alexwitherspoon.com/about/Disc-atw-2018-graph.png" alt="Disc Chart Showing Di" style="width: 150px;"/></a>
-
-StrengthsFinder:	
-
-1. [Strategic](https://alexwitherspoon.com/about/Strategic.pdf)
-1. [Learner](https://alexwitherspoon.com/about/Learner.pdf)
-1. [Individualism](https://alexwitherspoon.com/about/Individualization.pdf)
-1. [Relator](https://alexwitherspoon.com/about/Relator.pdf)
-1. [Arranger](https://alexwitherspoon.com/about/Arranger.pdf)
-
-Myers Briggs:	[ENTJ](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 
 #### Values & Practices
 
@@ -70,6 +57,21 @@ Myers Briggs:	[ENTJ](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Ind
 - invest in enough consensus to create a positive result
 - always believe in potential, work hard for the results
 - respect other humans, trust your team, get stuff done
-
 - lowercase agile
 - low ego, we are all humans on planet earth
+
+#### Behaviors
+DISC: </td>
+    <td><a href="https://en.m.wikipedia.org/wiki/DISC_assessment" target="_blank">Di</a></td>
+  </tr>
+<a href="https://alexwitherspoon.com/about/Disc-atw-2018.png" target="_blank"><img src="https://alexwitherspoon.com/about/Disc-atw-2018-graph.png" alt="Disc Chart Showing Di" style="width: 150px;"/></a>
+
+StrengthsFinder:	
+
+1. [Strategic](https://alexwitherspoon.com/about/Strategic.pdf)
+1. [Learner](https://alexwitherspoon.com/about/Learner.pdf)
+1. [Individualism](https://alexwitherspoon.com/about/Individualization.pdf)
+1. [Relator](https://alexwitherspoon.com/about/Relator.pdf)
+1. [Arranger](https://alexwitherspoon.com/about/Arranger.pdf)
+
+Myers Briggs:	[ENTJ](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
